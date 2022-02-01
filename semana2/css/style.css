@@ -145,7 +145,7 @@ busca el primer elemento
 
 */
 h1:first-child {
-    color:purple;
+    color:rgb(168, 14, 168);
 }
 
 input:first-of-type {
